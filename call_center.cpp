@@ -1,6 +1,3 @@
-// Author: Fruzsina Ladanyi
-//  CSE 4600 Machine Learning
-//  Due Date: 12/14/2023
 //  Materials used:
 //  https://lauraliparulo.altervista.org/java-threads-synchronization-with-semaphore/
 
